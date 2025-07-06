@@ -8,7 +8,7 @@ A simple RDBMS project that simulates a banking system using MySQL. It includes 
 - View balances and transaction history
 - Perform insightful queries
 
-## 🗂️ Tables
+##  Tables
 - `customers(customer_id, name, address)`
 - `accounts(account_no, customer_id, balance)`
 - `transactions(transaction_id, account_no, amount, type, transaction_date)`
